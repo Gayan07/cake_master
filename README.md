@@ -1,2 +1,2 @@
-# cake_master
- Mobile application for Cake Master
+# cake_masters
+ 

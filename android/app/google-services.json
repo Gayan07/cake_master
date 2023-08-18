@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938032045293",
+    "project_id": "cakemasters-16167",
+    "storage_bucket": "cakemasters-16167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938032045293:android:942705fa168534537c00e4",
+        "android_client_info": {
+          "package_name": "com.example.cake_masters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938032045293-3a13a953rcuu44blg5i4v6o8phikrcgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzw7_M-lYgIrfuuxBuUB_rQCXTxSZobog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938032045293-3a13a953rcuu44blg5i4v6o8phikrcgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
